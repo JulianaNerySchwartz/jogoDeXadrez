@@ -30,7 +30,7 @@ public class Position {
 		this.column = column;
 	}
 	
-	//Actions
+	//Methods
 	
 	@Override
 	public String toString() {
